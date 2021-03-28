@@ -1,0 +1,11 @@
+framework module OMDBClient {
+  umbrella header "OMDBClient.h"
+
+  export *
+  module * { export * }
+}
+
+module OMDBClient.Swift {
+    header "OMDBClient-Swift.h"
+    requires objc
+}
