@@ -2,6 +2,9 @@
 
 A client framework for OMDBApi.com.
 
+To get started, add the framework into your project and set the API key:
+`OMDBClient.shared.apiKey = "..."`
+
 The OMDBClient singleton (`OMDBClient.shared`) provides the following method to retrieve movies based on a search filter.
 `public func fetchMovies(searchText: String, page: Int, completion: @escaping (OMDBResult) -> ())`
 
