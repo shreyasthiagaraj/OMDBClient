@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OMDBClient-Swift.h</key>
 		<data>
-		ZtyRmDAhMskbxcMrpPKa13/4HpQ=
+		V3rIMsKMZnPqbOiF9cAIN1bL3ec=
 		</data>
 		<key>Headers/OMDBClient.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gcjk7dDQUyt7X98IyVVdLZ0dUsI=
+		qiDrH5jjip3pKYetR1DLUr40JPA=
 		</data>
 		<key>Modules/OMDBClient.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Fl/0dOLJkom1YT0KEwI+Slx7u0Y=
+		+du5PkSysRV2mv9TQ3amhymPjog=
 		</data>
 		<key>Modules/OMDBClient.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		Fl/0dOLJkom1YT0KEwI+Slx7u0Y=
+		+du5PkSysRV2mv9TQ3amhymPjog=
 		</data>
 		<key>Modules/OMDBClient.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SJeIBq0bpyoaVV1TS43awHl04yE=
+		CfR+rvD0m0y/WpLMxlcF03HGgUA=
 		</data>
 		<key>Modules/OMDBClient.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8mKVHBHuzLwUWQSs9RuwdcFOly0=
+		+4G7e9/twBaMsFyQQcK69cjNYb4=
 		</data>
 		<key>Modules/OMDBClient.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		SJeIBq0bpyoaVV1TS43awHl04yE=
+		CfR+rvD0m0y/WpLMxlcF03HGgUA=
 		</data>
 		<key>Modules/OMDBClient.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		8mKVHBHuzLwUWQSs9RuwdcFOly0=
+		+4G7e9/twBaMsFyQQcK69cjNYb4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y3QvZMjFW+8Osn5InRg4vk/lEOqPFQaXs86XGxCrbkQ=
+			kMZ0VaYfCg6+n73zmI4k6cdr1NMXjfPQGb1IicU/RB8=
 			</data>
 		</dict>
 		<key>Headers/OMDBClient.h</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WgTdcZyp5JVJljNtbkj51llyzzIhBOGH2kJSPI+4qb4=
+			N0+xFJx956ckxokoFpWdiHHXUEI2k2j60WaDqgiUDgw=
 			</data>
 		</dict>
 		<key>Modules/OMDBClient.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WgTdcZyp5JVJljNtbkj51llyzzIhBOGH2kJSPI+4qb4=
+			N0+xFJx956ckxokoFpWdiHHXUEI2k2j60WaDqgiUDgw=
 			</data>
 		</dict>
 		<key>Modules/OMDBClient.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QUBH0oJKEV0bGIkiLmxvvPUT8plj/jPAc4r2xM7HoF4=
+			9bT40e/USACWspleOUF6pj0YkHITTjz/lorTl0JSFYQ=
 			</data>
 		</dict>
 		<key>Modules/OMDBClient.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDF+VqyapHsTFIvbTjAR0/45YC0O2VMMZTH8n2Lq7Wk=
+			njPRw+fL6ypW6ABj+5xtbnQkc9YEg9Nh04AX61TLlKM=
 			</data>
 		</dict>
 		<key>Modules/OMDBClient.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QUBH0oJKEV0bGIkiLmxvvPUT8plj/jPAc4r2xM7HoF4=
+			9bT40e/USACWspleOUF6pj0YkHITTjz/lorTl0JSFYQ=
 			</data>
 		</dict>
 		<key>Modules/OMDBClient.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDF+VqyapHsTFIvbTjAR0/45YC0O2VMMZTH8n2Lq7Wk=
+			njPRw+fL6ypW6ABj+5xtbnQkc9YEg9Nh04AX61TLlKM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
